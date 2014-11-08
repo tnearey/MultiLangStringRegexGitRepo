@@ -36,5 +36,7 @@ Note: Languages R JavaScript also allow DQUOTE/SQUOTE switching "Joe's" or 'He s
 
 =======
 This will be a markdown
-    	       `
->>>>>>> Stashed changes
+
+See this page for special characters
+    	    https://stat.ethz.ch/R-manual/R-devel/library/base/html/Quotes.html
+>
